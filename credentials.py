@@ -7,6 +7,3 @@ API_KEY = 'Angle broker API Key'
 FEED_TOKEN = None #Ignore
 TOKEN_MAP = None #Ignore
 SMART_API_OBJ = None #Ignore
-
-
-
