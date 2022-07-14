@@ -25,7 +25,7 @@ With this python code we earn 1.2% in every trade when it trigger.
 	- Combined with SuperTrend 5,1
 
 ## Sample
-<img align="left" alt="Coding" width="200" src="https://github.com/RajeshMahadevappa/Super-trend-bot/blob/main/img/Sample%20(1).JPG">
-<img align="left" alt="Coding" width="200" src="https://github.com/RajeshMahadevappa/Super-trend-bot/blob/main/img/Sample%20(2).PNG">
-<img align="left" alt="Coding" width="200" src="https://github.com/RajeshMahadevappa/Super-trend-bot/blob/main/img/Sample%20(3).PNG">
-<img align="left" alt="Coding" width="200" src="https://github.com/RajeshMahadevappa/Super-trend-bot/blob/main/img/Sample%20(4).PNG">
+<img align="left" alt="Coding" width="150" src="https://github.com/RajeshMahadevappa/Super-trend-bot/blob/main/img/Sample%20(1).JPG">
+<img align="left" alt="Coding" width="150" src="https://github.com/RajeshMahadevappa/Super-trend-bot/blob/main/img/Sample%20(2).PNG">
+<img align="left" alt="Coding" width="150" src="https://github.com/RajeshMahadevappa/Super-trend-bot/blob/main/img/Sample%20(3).PNG">
+<img align="left" alt="Coding" width="150" src="https://github.com/RajeshMahadevappa/Super-trend-bot/blob/main/img/Sample%20(4).PNG">
